@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.8.0">
+	<GameIcon/>
+	<GameName>SM64: OMM</GameName>
+	<CategoryName>250 STAR</CategoryName>
+	<Metadata>
+		<Run id=""/>
+		<Platform usesEmulator="False"/>
+		<Region/>
+		<SpeedrunComVariables/>
+		<CustomVariables/>
+	</Metadata>
+	<LayoutPath/>
+	<Offset>00:00:00.000000000</Offset>
+	<AttemptCount>0</AttemptCount>
+	<AttemptHistory/>
+	<Segments>
+		<Segment>
+			<Name>BOB [7]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>CCM [14]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BOWSER 1 STAR [15]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BOWSER 1</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>WF [22]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>TSA [23]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>JRB [30]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>PEACH SLIDE [32]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>WING CAP [33]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BBH [40]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>DDD [47]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BOWSER 2 STAR [48]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BOWSER 2</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>MIPS 1 [49]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>SSL [56]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>LLL [63]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>MIPS 2 [64]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>TOAD 1 [65]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>HMC [72]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>METAL CAP [73]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>INVISIBLE CAP [74]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>WDW [81]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>SL [88]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>TTM [95]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>TOAD 2 [96]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>THI [103]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>WING SECRET [104]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>TTC [111]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>TOAD 3 [112]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>RR [119]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BOWSER 3 STAR [120]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BOWSER 3</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>MIPS HOUSE [1]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>PPP [8]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>TOAD 1 [9]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>MMT [11]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BBI [18]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>GG [25]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>INVISIBLE CAP [26]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BOWSER 1 STAR [27]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BOWSER 1</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>CH [34]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>METAL CAP [35]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>SLR [42]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>SS SECRET [44]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>MMM [51]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>LLF [58]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>MSP [65]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>CCC [72]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>TOAD 2 [73]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>KC [80]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BOWSER 2 STAR [81]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BOWSER 2</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>CCC [88]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>WING CAP [89]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>CS [96]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>FFF [103]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BOBF [110]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>SR [117]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>TOAD 3 [118]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>BOWSER 3 STAR [119]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>120 STARS [120]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+		<Segment>
+			<Name>HP [121]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+        <Segment>
+			<Name>REPLICA HP [122]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+        <Segment>
+			<Name>REPLICA MMT [123]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+        <Segment>
+			<Name>REPLICA INVISI CAP [124]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+        <Segment>
+			<Name>REPLICA METAL CAP [125]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+        <Segment>
+			<Name>REPLICA REPLICA BOWSER 1 [126]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+        <Segment>
+			<Name>REPLICA SS SECRET [127]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+        <Segment>
+			<Name>REPLICA BOWSER 2 [128]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+        <Segment>
+			<Name>REPLICA WING CAP [129]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+        <Segment>
+			<Name>REPLICA BOWSER 3 [130]</Name>
+			<Icon/>
+			<SplitTimes>
+				<SplitTime name="Personal Best"/>
+			</SplitTimes>
+			<BestSegmentTime/>
+			<SegmentHistory/>
+		</Segment>
+	</Segments>
+	<AutoSplitterSettings/>
+</Run>
